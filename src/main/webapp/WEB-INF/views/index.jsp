@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<a href="payment.do">[결제하기]</a>
+	<a href="product/payment.do">[결제하기]</a>
 
 </body>
 </html>

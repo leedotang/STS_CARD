@@ -163,7 +163,7 @@
 				</div>
 			</div>
 			</c:if>
-
+	<a href="payment.do">[결제하기]</a>
 	<jsp:include page="../common/foot.jsp"></jsp:include>
 </body>
 </html>

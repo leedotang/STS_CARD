@@ -15,7 +15,7 @@ public class PaymentController {
 	@Autowired
 	private PaymentService paymentService;
 	
-	@RequestMapping(value = "/payment.do")
+	@RequestMapping(value = "/product/payment.do")
 	public ModelAndView fwdPaymentPage() {
 		return new ModelAndView("payment");
 	}
